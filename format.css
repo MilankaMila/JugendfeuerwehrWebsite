@@ -18,15 +18,15 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 p {
-  text-align: center;
-}
+  text-align: left;
 
+}
 ul.a {
   list-style-type: none;
-}
+  }
 
 ul.b {
-  list-style-type: disc;
+  list-style-type:none;
 }
 
 ul.c {
@@ -35,10 +35,6 @@ ul.c {
 
 ul.d {
   list-style-type: circle;
-}
-
-ul.e {
-  list-style-type: none;
 }
 
 ol {
