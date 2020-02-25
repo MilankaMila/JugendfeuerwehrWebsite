@@ -7,7 +7,7 @@ body {
   color: #000000;
   background-color: #F7BE81;
   font-family: sans-serif;
-  text-align: center;
+  text-align: left;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -17,26 +17,35 @@ h1, h2, h3, h4, h5, h6 {
   margin-bottom: 0pt;
 }
 
-p {
-  text-align: left;
-
-}
-ul.a {
+#galerie {
   list-style-type: none;
   }
 
-ul.b {
-  list-style-type:none;
-}
-
-ul.c {
-  list-style-type: square;
-}
-
-ul.d {
-  list-style-type: circle;
-}
-
 ol {
   list-style-type: decimal;
+}
+
+.text{
+  line-height: 150%;
+  /*padding:0 75px 0 75px;*/
+  margin:40px 40px 0 20px;
+
+}
+#gesamt {
+   width:1250px;
+   margin: 0 auto;
+   min-height: 800px;
+   background-color: white;
+ }
+#head {
+  background-color:#424242;
+  height: 120px;
+  width: 100%;
+}
+#text-startseite{
+  float: left;
+  width: 500px;
+}
+#pics {
+   margin: 40px 0 0 540px;
 }
