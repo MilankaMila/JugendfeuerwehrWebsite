@@ -2,10 +2,12 @@
 h1 {
   color: blue;
 }
-
+h2 {
+  font-size: 20px;
+}
 body {
   color: #000000;
-  background-color: #F7BE81;
+  background-color:#FAAC58;
   font-family: sans-serif;
   text-align: left;
   margin-top: 0;
@@ -44,11 +46,11 @@ ol {
   width: 100%;
   margin-top: 0;
 }
-#text-startseite{
+#text-links{
   float: left;
   width: 500px;
 }
-#pics {
+#pics-rechts {
    margin: 40px 0 0 540px;
 }
 #head img {
@@ -76,4 +78,15 @@ ol {
 }
 #head li a:hover {
   background-color: #111;
+}
+#zentrierter-text{
+  text-align: center;
+}
+#text-rechts{
+  style:right;
+  margin-left: 500px
+}
+#pics-links{
+  float: right;
+  
 }
