@@ -8,14 +8,17 @@ body {
   background-color: #F7BE81;
   font-family: sans-serif;
   text-align: left;
+  margin-top: 0;
 }
 
 h1, h2, h3, h4, h5, h6 {
   font-family: 	sans-serif;
   font-style: 	normal;
-	margin-top: 0pt;
+	margin-top: 20px;
   margin-bottom: 0pt;
+  text-align: center;
 }
+
 
 #galerie {
   list-style-type: none;
@@ -39,6 +42,7 @@ ol {
   background-color:#424242;
   height: 120px;
   width: 100%;
+  margin-top: 0;
 }
 #text-startseite{
   float: left;
@@ -46,4 +50,30 @@ ol {
 }
 #pics {
    margin: 40px 0 0 540px;
+}
+#head img {
+  float: left;
+  margin-top: 10px;
+  margin-left: 10px;
+}
+#head ul{
+  list-style-type: none;
+  margin-left: 720px;
+  margin-top: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+}
+#head li {
+  float: left;
+}
+#head li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+#head li a:hover {
+  background-color: #111;
 }
