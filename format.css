@@ -1,6 +1,7 @@
 /* Datei: format.css */
 h1 {
   color: blue;
+  text-align: center;
 }
 h2 {
   font-size: 20px;
@@ -16,13 +17,13 @@ body {
 h1, h2, h3, h4, h5, h6 {
   font-family: 	sans-serif;
   font-style: 	normal;
-	margin-top: 20px;
+  margin-top: 20px;
   margin-bottom: 0pt;
   text-align: center;
 }
 
 
-#galerie {
+ul.b {
   list-style-type: none;
   }
 
@@ -90,3 +91,6 @@ ol {
   float: right;
   
 }
+#text-impressum{ 
+   text-align: center;
+	}
