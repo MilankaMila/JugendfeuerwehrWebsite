@@ -85,12 +85,14 @@ ol {
   text-align: center;
 }
 #text-rechts{
-  style:right;
+
   margin-left: 500px
 }
 #pics-links{
-  float: right;
-
+  float: left;
+  width: 500px;
+  margin-top: 50px;
+  margin-left: 50px;
 }
 #text-impressum{
    text-align: center;
@@ -98,10 +100,12 @@ ol {
 #zentrierter-text{
   text-align: center;
 }
-#tabelle-autos{
-
+#text_überuns p{
+  padding-bottom: 50px;
 }
-#tabelle-aktionen table{
+
+table{
   border-collapse: collapse;
+  margin: 50px;
 
 }
