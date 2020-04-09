@@ -8,8 +8,7 @@ h2 {
 }
 body {
   color: #000000;
-  /*background-color:#FAAC58; */
-  background-image: url("grafiken/background.jpg");
+  background-color:#FAAC58;
   font-family: sans-serif;
   text-align: left;
   margin-top: 0;
