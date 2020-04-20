@@ -1,9 +1,8 @@
 /* Datei: format.css */
-
 /* Überschriften  */
 h1, h2, h3, h4, h5, h6 {
-  font-family:  sans-serif;
-  font-style:   normal;
+  font-family: sans-serif;
+  font-style: normal;
   margin-top: 20px;
   margin-bottom: 0pt;
   text-align: center;
@@ -13,12 +12,14 @@ h1 {
   color: blue;
   text-align: center;
 }
-h2{
+
+h2 {
   font-size: 20px;
 }
+
 body {
   color: #000000;
-  background-color:#FAAC58;
+  background-color: #FAAC58;
   font-family: sans-serif;
   text-align: left;
   margin-top: 0;
@@ -27,45 +28,51 @@ body {
 ul.impressum_ul {
   list-style-type: none;
   padding: 0;
-  }
+}
 
-ol.main_ol{
+ol.main_ol {
   list-style-type: decimal;
 }
 
-ol.ausrüstung_ol{
+ol.ausrüstung_ol {
   list-style-type: upper-roman;
 }
 
-.text{
+.text {
   line-height: 150%;
-  margin:40px 40px 0 20px;
+  margin: 40px 40px 0 20px;
 }
+
 #gesamt {
-   width:1250px;
-   margin: 0 auto;
-   min-height: 800px;
-   background-color: white;
- }
+  width: 1250px;
+  margin: 0 auto;
+  min-height: 800px;
+  background-color: white;
+}
+
 #head {
-  background-color:#424242;
+  background-color: #424242;
   height: 120px;
   width: 100%;
   margin-top: 0;
 }
-#text-links{
+
+#text-links {
   float: left;
   width: 500px;
 }
+
 #pics-rechts {
-   margin: 40px 0 0 540px;
+  margin: 40px 0 0 540px;
 }
+
 #head img {
   float: left;
   margin-top: 10px;
   margin-left: 10px;
 }
-#head ul{
+
+#head ul {
   list-style-type: none;
   margin-left: 720px;
   margin-top: 0;
@@ -73,9 +80,11 @@ ol.ausrüstung_ol{
   overflow: hidden;
   background-color: #333;
 }
+
 #head li {
   float: left;
 }
+
 #head li a {
   display: block;
   color: white;
@@ -83,45 +92,48 @@ ol.ausrüstung_ol{
   padding: 14px 16px;
   text-decoration: none;
 }
+
 #head li a:hover {
   background-color: #111;
 }
-#zentrierter-text{
+
+#zentrierter-text {
   text-align: center;
 }
-#text-rechts{
 
+#text-rechts {
   margin-left: 500px
 }
-#pics-links{
+
+#pics-links {
   float: left;
   width: 500px;
   margin-top: 50px;
   margin-left: 50px;
 }
-#text-impressum{
-   text-align: center;
-	}
-#zentrierter-text{
+
+#text-impressum {
   text-align: center;
 }
-#ausrüstung_ol{
+
+#zentrierter-text {
+  text-align: center;
+}
+
+#ausrüstung_ol {
   padding-bottom: 50px;
   list-style-type: upper-roman;
 }
-.lf_ul{
+
+.lf_ul {
   list-style-type: circle;
 }
-#yt_video{
+
+#yt_video {
   margin-left: 400px;
   padding-bottom: 50px;
 }
 
-#fahrzeuge{
-
+#fahrzeuge {
   margin: 50px;
-
 }
-
-
-
