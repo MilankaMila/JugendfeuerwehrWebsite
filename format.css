@@ -116,6 +116,11 @@ ol.ausrüstung_ol {
   text-align: center;
 }
 
+#text-disclaimer {
+  padding-left: 20px;
+  padding-bottom: 50px;
+}
+
 #zentrierter-text {
   text-align: center;
 }
