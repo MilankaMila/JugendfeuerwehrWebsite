@@ -8,5 +8,4 @@
 - Ein Bild, das mit dem "Download-Fenster" heruntergeladen werden kann (12)
 - Download im neuen Fenster
 - Ränder und Hintergrund (16)
-	- Aktionen Tabelle
 - DIVS!!!!!! MUY IMPORTANTE SOY LECHUGA MATADOR

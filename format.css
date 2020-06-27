@@ -125,6 +125,10 @@ ol.ausrüstung_ol {
   text-align: center;
 }
 
+#tabelle-aktionen {
+  padding: 20px;
+}
+
 #ausrüstung_ol {
   padding-bottom: 50px;
   list-style-type: upper-roman;
@@ -134,9 +138,10 @@ ol.ausrüstung_ol {
   list-style-type: circle;
 }
 
-#yt_video {
-  margin-left: 400px;
+
+#yt_video{
   padding-bottom: 50px;
+  padding: 20px;
 }
 
 #fahrzeuge {
