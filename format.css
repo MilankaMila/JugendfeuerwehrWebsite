@@ -35,7 +35,7 @@ ol.main_ol {
 }
 
 ol.ausrüstung_ol {
-  list-style-type: upper-roman;
+  list-style-type:upper-armenian;
 }
 
 .text {
@@ -131,7 +131,7 @@ ol.ausrüstung_ol {
 
 #ausrüstung_ol {
   padding-bottom: 50px;
-  list-style-type: upper-roman;
+  list-style-type:upper-alpha;
 }
 
 .lf_ul {
