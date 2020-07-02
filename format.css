@@ -35,7 +35,7 @@ ol.main_ol {
 }
 
 ol.ausrüstung_ol {
-  list-style-type:upper-armenian;
+  list-style-type: upper-armenian;
 }
 
 .text {
@@ -97,6 +97,12 @@ ol.ausrüstung_ol {
   background-color: #111;
 }
 
+#text_überuns {
+  line-height: 150%;
+  margin: 0 40px 0 20px;
+  padding-bottom: 20px;
+}
+
 #zentrierter-text {
   text-align: center;
 }
@@ -130,16 +136,14 @@ ol.ausrüstung_ol {
 }
 
 #ausrüstung_ol {
-  padding-bottom: 50px;
-  list-style-type:upper-alpha;
+  list-style-type: upper-alpha;
 }
 
 .lf_ul {
   list-style-type: circle;
 }
 
-
-#yt_video{
+#yt_video {
   padding-bottom: 50px;
   padding: 20px;
 }
@@ -149,6 +153,6 @@ ol.ausrüstung_ol {
 }
 
 #quote {
-  padding-top:20px;
+  padding-top: 20px;
   padding: 20px;
 }
